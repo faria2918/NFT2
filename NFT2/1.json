@@ -1,0 +1,16 @@
+{
+    "name": "The pikachu image 🧸",
+    "description": "Pikachu is a yellow, mouse-like creature with electrical abilities.\n\n It is a major character in the Pokémon franchise, serving as its mascot and as a major mascot for Nintendo. Buy them now. Also, they are coming from github.com/uchihashahin01",
+    "image": "https://imageupload.io/ib/X2eEXuViIJU829e_1694868435.png",
+    "external_url": "https://github.com/faria2918",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "pikachu"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
